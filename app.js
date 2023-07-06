@@ -1,5 +1,5 @@
-let mouseX = 0,
-  mouseY = 0;
+let mouseX = 0;
+  let mouseY = 0;
 
 let flashlight = document.getElementById("flashLight");
 
